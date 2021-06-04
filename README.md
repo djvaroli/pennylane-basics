@@ -31,5 +31,7 @@ The VQE algorithm is used in quantum chemistry, with the goal of using a quantum
 estimate the expectation of the molecule's electronic Hamiltonian and a classical optimizer
 is used to adjust the parameters of the quantum circuit in order to find the molecules ground state energy.
 
-That is a mouthful! I still have lot's of work to do, before I can confidently say I understand what all of that means
+That is a mouthful! I still have lots of work to do, before I can confidently say I understand what all of that means
 exactly, but I think just trying and slowly learning is the way to go!
+
+### Variational Classifier
